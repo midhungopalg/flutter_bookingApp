@@ -1,0 +1,19 @@
+
+[
+  {
+    "title": "Flutter Development",
+    "description": "Learn how to develop mobile applications using Flutter."
+  },
+  {
+    "title": "Dart Programming",
+    "description": "Understand Dart programming and its fundamentals."
+  },
+  {
+    "title": "API Integration",
+    "description": "Connect your application with REST APIs."
+  },
+  {
+    "title": "App Development",
+    "description": "Build and test applications on multiple platforms."
+  }
+]
